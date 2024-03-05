@@ -1,7 +1,7 @@
 # Sea-of-Thieves-Fishing-Manual
 Sea of Thieves is a game where you get to be a pirate, follow treasure maps, dig for gold, fight skeletons and ghosts, battle ships from your ships using cannons! Unfortunately they included a fishing minigame, so we will be actively avoiding those things in favour of fishing.
 
-This is intended to be played on Safer Seas, to avoid running into players that might sink your checks, though the logic is unchanged if you want a risk and choose to play on the High Seas
+This is intended to be played on Safer Seas, to avoid running into players that might sink your checks, though the logic is unchanged if you want a risk and choose to play on the High Seas.  I do heartily recommend joining up with your friends to all fish together, though.
 
 # Randomized Items
 - Map regions
