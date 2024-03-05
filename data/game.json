@@ -1,0 +1,12 @@
+{
+	"game": "SeaofThievesFishing",
+	"creator": "DiStegro",
+	"filler_item_name": "Ancient Coins",
+	
+	"starting_items": [
+		{
+			"item_categories": ["Regions"],
+			"random": 1
+		}
+	]
+}

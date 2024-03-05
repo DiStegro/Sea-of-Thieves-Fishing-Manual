@@ -1,0 +1,71 @@
+{
+	"Region Hub": 	{
+		"connects_to": ["Splashtails","Pondies","Ancientscales","Plentifins","Wildsplashes","Devilfish","Wreckers", "Extras"],
+		"starting": true,
+		"requires": []
+	},
+	"Splashtails": 	{
+		"connects_to": ["Cooked Splashtails"],
+		"requires": []
+	},
+	"Cooked Splashtails": 	{
+		"connects_to": [],
+		"requires": "|Cooking|"
+	},
+	"Pondies": 	{
+		"connects_to": ["Cooked Pondies"],
+		"requires": "|Shores of Plenty| AND |Ponds|"
+	},
+	"Cooked Pondies": 	{
+		"connects_to": [],
+		"requires": "|Cooking|"
+	},
+	"Ancientscales": 	{
+		"connects_to": ["Cooked Ancientscales"],
+		"requires": "|Ancient Isles| AND |Leeches|"
+	},
+	"Cooked Ancientscales": 	{
+		"connects_to": [],
+		"requires": "|Cooking|"
+	},
+	"Plentifins": 	{
+		"connects_to": ["Cooked Plentifins"],
+		"requires": "|Shores of Plenty| AND |Earthworms|"
+	},
+	"Cooked Plentifins": 	{
+		"connects_to": [],
+		"requires": "|Cooking|"
+	},
+	"Wildsplashes": 	{
+		"connects_to": ["Cooked Wildsplashes"],
+		"requires": "|The Wilds| AND |Earthworms|"
+	},
+	"Cooked Wildsplashes": 	{
+		"connects_to": [],
+		"requires": "|Cooking|"
+	},
+	"Devilfish": 	{
+		"connects_to": ["Cooked Devilfish"],
+		"requires": "|Devil's Roar| AND |Grubs|"
+	},
+	"Cooked Devilfish": 	{
+		"connects_to": [],
+		"requires": []
+	},
+	"Wreckers": 	{
+		"connects_to": ["Cooked Wreckers"],
+		"requires": "|Ancient Isles| AND |Shores of Plenty| AND |The Wilds| AND |Shipwrecks|"
+	},
+	"Cooked Wreckers": 	{
+		"connects_to": [],
+		"requires": "|Cooking|"
+	},
+	"Extras": 	{
+		"connects_to": ["Cooked Extras"],
+		"requires": []
+	},
+	"Cooked Extras": 	{
+		"connects_to": [],
+		"requires": "|Cooking|"
+	}
+}

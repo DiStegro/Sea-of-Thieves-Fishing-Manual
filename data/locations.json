@@ -1,0 +1,525 @@
+[
+	{
+		"name": "Ruby Splashtail",
+		"region": "Splashtails",
+		"category": ["Splashtails"],
+		"requires": []
+	},
+	{
+		"name": "Sunny Splashtail",
+		"region": "Splashtails",
+		"category": ["Splashtails"],
+		"requires": []
+	},
+	{
+		"name": "Indigo Splashtail",
+		"region": "Splashtails",
+		"category": ["Splashtails"],
+		"requires": []
+	},
+	{
+		"name": "Seafoam Splashtail",
+		"region": "Splashtails",
+		"category": ["Splashtails"],
+		"requires": []
+	},
+	{
+		"name": "Trophy Splashtail",
+		"region": "Splashtails",
+		"category": ["Splashtails"],
+		"requires": []
+	},
+	{
+		"name": "Cooked Ruby Splashtail",
+		"region": "Cooked Splashtails",
+		"category": ["Splashtails"],
+		"requires": []
+	},
+	{
+		"name": "Cooked Sunny Splashtail",
+		"region": "Cooked Splashtails",
+		"category": ["Splashtails"],
+		"requires": []
+	},
+	{
+		"name": "Cooked Indigo Splashtail",
+		"region": "Cooked Splashtails",
+		"category": ["Splashtails"],
+		"requires": []
+	},
+	{
+		"name": "Cooked Seafoam Splashtail",
+		"region": "Cooked Splashtails",
+		"category": ["Splashtails"],
+		"requires": []
+	},
+	{
+		"name": "Cooked Trophy Splashtail",
+		"region": "Cooked Splashtails",
+		"category": ["Splashtails"],
+		"requires": []
+	},
+	{
+		"name": "Charcoal Pondie",
+		"region": "Pondies",
+		"category": ["Pondies"],
+		"requires": []
+	},
+	{
+		"name": "Orchid Pondie",
+		"region": "Pondies",
+		"category": ["Pondies"],
+		"requires": []
+	},
+	{
+		"name": "Bronze Pondie",
+		"region": "Pondies",
+		"category": ["Pondies"],
+		"requires": []
+	},
+	{
+		"name": "Moonsky Pondie",
+		"region": "Pondies",
+		"category": ["Pondies"],
+		"requires": []
+	},
+	{
+		"name": "Cooked Charcoal Pondie",
+		"region": "Cooked Pondies",
+		"category": ["Pondies"],
+		"requires": []
+	},
+	{
+		"name": "Cooked Orchid Pondie",
+		"region": "Cooked Pondies",
+		"category": ["Pondies"],
+		"requires": []
+	},
+	{
+		"name": "Cooked Bronze Pondie",
+		"region": "Cooked Pondies",
+		"category": ["Pondies"],
+		"requires": []
+	},
+	{
+		"name": "Cooked Moonsky Pondie",
+		"region": "Cooked Pondies",
+		"category": ["Pondies"],
+		"requires": []
+	},
+	{
+		"name": "Trophy Pondie",
+		"region": "Pondies",
+		"category": ["Pondies"],
+		"requires": []
+	},
+	{
+		"name": "Cooked Trophy Pondie",
+		"region": "Cooked Pondies",
+		"category": ["Pondies"],
+		"requires": []
+	},
+	{
+		"name": "Stone Islehopper",
+		"region": "Splashtails",
+		"category": ["Islehoppers"],
+		"requires": []
+	},
+	{
+		"name": "Moss Islehopper",
+		"region": "Splashtails",
+		"category": ["Islehoppers"],
+		"requires": []
+	},
+	{
+		"name": "Honey Islehopper",
+		"region": "Splashtails",
+		"category": ["Islehoppers"],
+		"requires": []
+	},
+	{
+		"name": "Amethyst Islehopper",
+		"region": "Splashtails",
+		"category": ["Islehoppers"],
+		"requires": []
+	},
+	{
+		"name": "Trophy Islehopper",
+		"region": "Splashtails",
+		"category": ["Islehoppers"],
+		"requires": []
+	},
+	{
+		"name": "Cooked Stone Islehopper",
+		"region": "Cooked Splashtails",
+		"category": ["Islehoppers"],
+		"requires": []
+	},
+	{
+		"name": "Cooked Moss Islehopper",
+		"region": "Cooked Splashtails",
+		"category": ["Islehoppers"],
+		"requires": []
+	},
+	{
+		"name": "Cooked Honey Islehopper",
+		"region": "Cooked Splashtails",
+		"category": ["Islehoppers"],
+		"requires": []
+	},
+	{
+		"name": "Cooked Amethyst Islehopper",
+		"region": "Cooked Splashtails",
+		"category": ["Islehoppers"],
+		"requires": []
+	},
+	{
+		"name": "Cooked Trophy Islehopper",
+		"region": "Cooked Splashtails",
+		"category": ["Islehoppers"],
+		"requires": []
+	},
+	{
+		"name": "Almond Ancientscale",
+		"region": "Ancientscales",
+		"category": ["Ancientscales"],
+		"requires": []
+	},
+	{
+		"name": "Sapphire Ancientscale",
+		"region": "Ancientscales",
+		"category": ["Ancientscales"],
+		"requires": []
+	},
+	{
+		"name": "Smoke Ancientscale",
+		"region": "Ancientscales",
+		"category": ["Ancientscales"],
+		"requires": []
+	},
+	{
+		"name": "Starshine Ancientscale",
+		"region": "Ancientscales",
+		"category": ["Ancientscales"],
+		"requires": []
+	},
+	{
+		"name": "Trophy Ancientscale",
+		"region": "Ancientscales",
+		"category": ["Ancientscales"],
+		"requires": []
+	},
+	{
+		"name": "Cooked Almond Ancientscale",
+		"region": "Cooked Ancientscales",
+		"category": ["Ancientscales"],
+		"requires": []
+	},
+	{
+		"name": "Coooked Sapphire Ancientscale",
+		"region": "Cooked Ancientscales",
+		"category": ["Ancientscales"],
+		"requires": []
+	},
+	{
+		"name": "Cooked Smoke Ancientscale",
+		"region": "Cooked Ancientscales",
+		"category": ["Ancientscales"],
+		"requires": []
+	},
+	{
+		"name": "Cooked Starshine Ancientscale",
+		"region": "Cooked Ancientscales",
+		"category": ["Ancientscales"],
+		"requires": []
+	},
+	{
+		"name": "Cooked Trophy Ancientscale",
+		"region": "Cooked Ancientscales",
+		"category": ["Ancientscales"],
+		"requires": []
+	},
+	{
+		"name": "Olive Plentifin",
+		"region": "Plentifins",
+		"category": ["Plentifins"],
+		"requires": []
+	},
+	{
+		"name": "Amber Plentifin",
+		"region": "Plentifins",
+		"category": ["Plentifins"],
+		"requires": []
+	},
+	{
+		"name": "Cloudy Plentifin",
+		"region": "Plentifins",
+		"category": ["Plentifins"],
+		"requires": []
+	},
+	{
+		"name": "Watery Plentifin",
+		"region": "Plentifins",
+		"category": ["Plentifins"],
+		"requires": []
+	},
+	{
+		"name": "Cooked Olive Plentifin",
+		"region": "Cooked Plentifins",
+		"category": ["Plentifins"],
+		"requires": []
+	},
+	{
+		"name": "Cooked Amber Plentifin",
+		"region": "Cooked Plentifins",
+		"category": ["Plentifins"],
+		"requires": []
+	},
+	{
+		"name": "Cooked Cloudy Plentifins",
+		"region": "Cooked Plentifins",
+		"category": ["Plentifins"],
+		"requires": []
+	},
+	{
+		"name": "Cooked Watery Plentifin",
+		"region": "Cooked Plentifins",
+		"category": ["Plentifins"],
+		"requires": []
+	},
+	{
+		"name": "Trophy Plentifin",
+		"region": "Plentifins",
+		"category": ["Plentifins"],
+		"requires": []
+	},
+	{
+		"name": "Cooked Trophy Plentifin",
+		"region": "Cooked Plentifins",
+		"category": ["Plentifins"],
+		"requires": []
+	},
+	{
+		"name": "Russet Wildsplash",
+		"region": "Wildsplashes",
+		"category": ["Wildsplashes"],
+		"requires": []
+	},
+	{
+		"name": "Sandy Wildsplash",
+		"region": "Wildsplashes",
+		"category": ["Wildsplashes"],
+		"requires": []
+	},
+	{
+		"name": "Ocean Wildsplash",
+		"region": "Wildsplashes",
+		"category": ["Wildsplashes"],
+		"requires": []
+	},
+	{
+		"name": "Coral Wildsplash",
+		"region": "Wildsplashes",
+		"category": ["Wildsplashes"],
+		"requires": []
+	},
+	{
+		"name": "Cooked Russet Wildsplash",
+		"region": "Cooked Wildsplashes",
+		"category": ["Wildsplashes"],
+		"requires": []
+	},
+	{
+		"name": "Cooked Sandy Wildsplash",
+		"region": "Cooked Wildsplashes",
+		"category": ["Wildsplashes"],
+		"requires": []
+	},
+	{
+		"name": "Cooked Ocean Wildsplash",
+		"region": "Cooked Wildsplashes",
+		"category": ["Wildsplashes"],
+		"requires": []
+	},
+	{
+		"name": "Cooked Coral Wildsplash",
+		"region": "Cooked Wildsplashes",
+		"category": ["Wildsplashes"],
+		"requires": []
+	},
+	{
+		"name": "Trophy Wildsplash",
+		"region": "Wildsplashes",
+		"category": ["Wildsplashes"],
+		"requires": []
+	},
+	{
+		"name": "Cooked Trophy Wildsplash",
+		"region": "Cooked Wildsplashes",
+		"category": ["Wildsplashes"],
+		"requires": []
+	},
+	{
+		"name": "Ashen Devilfish",
+		"region": "Devilfish",
+		"category": ["Devilfish"],
+		"requires": []
+	},
+	{
+		"name": "Seashell Devilfish",
+		"region": "Devilfish",
+		"category": ["Devilfish"],
+		"requires": []
+	},
+	{
+		"name": "Lava Devilfish",
+		"region": "Devilfish",
+		"category": ["Devilfish"],
+		"requires": []
+	},
+	{
+		"name": "Firelight Devilfish",
+		"region": "Devilfish",
+		"category": ["Devilfish"],
+		"requires": []
+	},
+	{
+		"name": "Cooked Ashen Devilfish",
+		"region": "Cooked Devilfish",
+		"category": ["Devilfish"],
+		"requires": []
+	},
+	{
+		"name": "Cooked Seashell Devilfish",
+		"region": "Cooked Devilfish",
+		"category": ["Devilfish"],
+		"requires": []
+	},
+	{
+		"name": "Cooked Lava Devilfish",
+		"region": "Cooked Devilfish",
+		"category": ["Devilfish"],
+		"requires": []
+	},
+	{
+		"name": "Trophy Devilfish",
+		"region": "Devilfish",
+		"category": ["Devilfish"],
+		"requires": []
+	},
+	{
+		"name": "Cooked Trophy Devilfish",
+		"region": "Cooked Devilfish",
+		"category": ["Devilfish"],
+		"requires": []
+	},
+	{
+		"name": "Rose Wrecker",
+		"region": "Wreckers",
+		"category": ["Wreckers"],
+		"requires": []
+	},
+	{
+		"name": "Sun Wrecker",
+		"region": "Wreckers",
+		"category": ["Wreckers"],
+		"requires": []
+	},
+	{
+		"name": "Moon Wrecker",
+		"region": "Wreckers",
+		"category": ["Wreckers"],
+		"requires": []
+	},
+	{
+		"name": "Trophy Wrecker",
+		"region": "Wreckers",
+		"category": ["Wreckers"],
+		"requires": []
+	},
+	{
+		"name": "Cooked Rose Wrecker",
+		"region": "Cooked Wreckers",
+		"category": ["Wreckers"],
+		"requires": []
+	},
+	{
+		"name": "Cooked Sun Wrecker",
+		"region": "Cooked Wreckers",
+		"category": ["Wreckers"],
+		"requires": []
+	},
+	{
+		"name": "Cooked Moon Wrecker",
+		"region": "Cooked Wreckers",
+		"category": ["Wreckers"],
+		"requires": []
+	},
+	{
+		"name": "Cooked Trophy Wrecker",
+		"region": "Cooked Wreckers",
+		"category": ["Wreckers"],
+		"requires": []
+	},
+	{
+		"name": "Treacherous Plunder",
+		"region": "Pondies",
+		"category": ["Extras"],
+		"requires": []
+	},
+	{
+		"name": "Pork",
+		"region": "Extras",
+		"category": ["Extras"],
+		"requires": []
+	},
+	{
+		"name": "Cooked Pork",
+		"region": "Cooked Extras",
+		"category": ["Extras"],
+		"requires": []
+	},
+	{
+		"name": "Chicken",
+		"region": "Extras",
+		"category": ["Extras"],
+		"requires": []
+	},
+	{
+		"name": "Cooked Chicken",
+		"region": "Cooked Extras",
+		"category": ["Extras"],
+		"requires": []
+	},
+	{
+		"name": "Snake",
+		"region": "Extras",
+		"category": ["Extras"],
+		"requires": []
+	},
+	{
+		"name": "Cooked Snake",
+		"region": "Cooked Extras",
+		"category": ["Extras"],
+		"requires": []
+	},
+	{
+		"name": "Shark",
+		"region": "Extras",
+		"category": ["Extras"],
+		"requires": []
+	},
+	{
+		"name": "Cooked Shark",
+		"region": "Cooked Extras",
+		"category": ["Extras"],
+		"requires": []
+	},
+	{
+		"name": "Master Hunter",
+		"victory": true,
+		"region": "Region Hub",
+		"category": ["Goal"],
+		"requires": "|Hunter's Call Rank:50|"
+	}
+]

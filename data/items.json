@@ -1,0 +1,68 @@
+[
+	{
+		"count":1,
+		"name": "Earthworms",
+		"category": ["Bait"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Grubs",
+		"category": ["Bait"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Leeches",
+		"category": ["Bait"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Shores of Plenty",
+		"category": ["Regions"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Ancient Isles",
+		"category": ["Regions"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "The Wilds",
+		"category": ["Regions"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Devil's Roar",
+		"category": ["Regions"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Cooking",
+		"category": ["Specials"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Ponds",
+		"category": ["Specials"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Shipwrecks",
+		"category": ["Specials"],
+		"progression": true
+	},
+	{
+		"count":75,
+		"name": "Hunter's Call Rank",
+		"category": ["Ranks"],
+		"progression_skip_balancing": true
+	}
+]
